@@ -1,4 +1,4 @@
-# Banking System in C++
+# Customer Billing System in C++
 
 This program is a simple restaurant billing system written in C. It allows users to select items from a menu, specify the quantity, and generates a bill including GST, discount, and the grand total.
 

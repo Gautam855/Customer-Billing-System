@@ -30,18 +30,19 @@ This program is a simple restaurant billing system written in C. It allows users
     - Before proceeding, confirm that you have the Dev C++ compiler installed on your system.
     - If not, download and install it from the [official site](https://www.bloodshed.net/).
     
-### 2. Code Acquisition
+- ### 2. Code Acquisition
   - **Copy the Source Code:**
     - Visit the [Github](https://github.com/Gautam855/Customer-Billing-System/blob/main/Customer%20Billing%20System.cpp).
     - Copy the source code from the repository.
-### 3. Running the Code
+      
+- ### 3. Running the Code
   - **Execute the Code in Dev C++:**
     - Open Dev C++ on your system.
     - Paste the copied code into a new project or file within Dev C++.
     - Save the file with an appropriate name.
     - Compile and run the code within the Dev C++ environment.
 
-### 4. Enjoy the Program
+- ### 4. Enjoy the Program
   - **Experience the Banking System:**
     - Once the code is successfully compiled and executed, explore the functionalities of the Banking System.
     - Test various features and transactions to familiarize yourself with the program's capabilities.
